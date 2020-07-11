@@ -1,0 +1,266 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #2C2D30;
+    color: aliceblue;
+
+}
+
+hr {
+    color: aliceblue;
+    height: 1px;
+    background: aliceblue;
+
+}
+
+h2 {
+    color: #7CE4DB;
+    font-weight: 900;
+    letter-spacing: -1px;
+    font-size: 45px;
+}
+
+/* MENU AREA START */
+.main-menu > a {
+    color: aliceblue;
+}
+
+.main-menu > a span {
+    color: #7ce9ed;
+}
+
+.main-menu > a:hover {
+    color: #7ce9ed;
+    transition-duration: 1s;
+}
+
+.main-menu ul li {
+    padding: 5px;
+    letter-spacing: 1px;
+}
+
+.main-menu ul li a {
+    color: #fff;
+
+}
+
+.main-menu ul li:hover a {
+    color: #7ce9ed;
+    transition-duration: 0.7s;
+}
+
+
+
+
+
+nav ul li a.active {
+    color: #7ce9ed;
+
+}
+
+
+/* PROFILE AREA START */
+
+.custom-profile {
+    margin-top: 50px;
+}
+
+
+
+.profile-area {
+    width: 100%;
+
+}
+
+
+#idmamun {
+    position: absolute;
+    width: 100%;
+
+
+}
+
+.navbar-toggler-icon {
+    color: aliceblue;
+}
+
+
+.logo-area img {
+    width: 450px;
+    height: auto;
+
+}
+
+.logo-area {
+    text-align: center;
+}
+
+
+.name-area h3 > span {
+    color: #7ce9ed;
+    font-weight: 700;
+
+}
+
+.mybutton {
+    color: #1a1818;
+    background-color: #7ce9ed;
+    border-color: #7ce9ed;
+    border-radius: 45px;
+    padding: 15px 30px;
+}
+
+
+
+
+/* about area stare*/
+
+.custom-about {
+    margin-top: 150px;
+}
+
+.about-area {
+    width: 100%;
+    margin-bottom: 100px;
+}
+
+.about-me h4 {
+    font-weight: 700;
+    margin: 20px 0 10px 0;
+
+}
+
+.about-me a {
+    text-decoration: none;
+    color: aqua;
+
+}
+
+
+
+/* skill area start*/
+
+.skills-area {
+    margin: 50px 0 100px 0;
+}
+
+
+.row .single-chart .chart {
+    position: relative;
+    width: 110px;
+    height: 110px;
+    line-height: 110px;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 30px;
+
+
+}
+
+
+.row .single-chart canvas {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.row .single-chart h4 {
+
+    color: aqua;
+    font-weight: 500;
+    margin-top: 5px;
+
+}
+
+/* service area start*/
+
+.col-md-12 .text-center {
+	margin-bottom: 20px;
+}
+.services-area .singel-service h4{
+    color:  #7ce9ed;
+}
+
+
+.singel-service span {
+    font-size: 45px;
+    padding: 10px;
+}
+
+
+.singel-service {
+    background-color: #3D3E44;
+    border: 1px solid rgba(214, 214, 214, .8);
+    margin-bottom: 30px;
+    padding: 38px 24px;
+    text-align: center;
+
+}
+
+
+
+
+
+/* portfolio area start*/
+
+
+.gallery .singel-photo {
+
+    margin-bottom: 10px;
+
+}
+
+.portfolio .gallery .singel-photo img {
+
+    width: 100%;
+    height: auto;
+}
+
+
+.filter-button-group li {
+
+    cursor: pointer;
+    margin-bottom: 25px;
+}
+
+
+
+/* contact area start*/
+
+.col-12.text-center.form-text {
+	margin-bottom: 20px;
+}
+
+
+
+.single-input input,
+.single-textarea textarea {
+    background-color: #3d3e44;
+    border: none;
+    margin: 0 0 10px;
+    border-radius: 20px;
+    padding: 24px;
+}
+
+.row.single-button button {
+    margin: 15px 0 0 15px;
+    border-radius: 45px;
+    padding: 15px 30px;
+}
+
+
+
+
+
+
+
+
+
+
+.material-scrolltop.reveal {
+	outline: none;
+	background-color: #3d3e44;
+    color: aqua;
+    
+}

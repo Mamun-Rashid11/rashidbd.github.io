@@ -1,0 +1,60 @@
+@media all and (max-width:992px) {
+
+    .custom-profile .name-area h1 {
+        font-size: 1.5rem;
+    }
+
+    .custom-profile .name-area h3 {
+        font-size: 1rem
+    }
+
+    .custom-profile .name-area p {
+        font-size: .75rem;
+    }
+
+    .custom-profile .name-area button {
+        padding: 5px 15px;
+    }
+
+    .custom-profile .logo-area img {
+        width: 230px;
+        height: auto;
+    }
+
+    .about-me h2 {
+        font-size: 25px;
+    }
+
+    .about-me h4 {
+        margin: 10px 0 5px 0;
+        ;
+        font-size: 15px;
+    }
+
+    .about-me p {
+        font-size: .65rem
+    }
+
+    .services-area .singel-service h4 {
+        font-size: 19px;
+    }
+
+    .services-area .singel-service {
+        font-size: 13px;
+    }
+}
+
+
+
+
+
+@media all and (max-width:600px) {
+
+
+
+
+    .col-md-6.col-sm-12.name-area {
+        text-align: center;
+        margin: 10px 0 0 0;
+    }
+}
